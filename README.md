@@ -31,3 +31,11 @@ Register and search for doctors by specialization or availability.
 Book or cancel appointments.
 
 Book appointment online or by cash.
+
+
+
+To run the project follow following steps:-
+1. Clone the project using git clone <git-link-here>.
+2. Go to backend folder and run the command node server.js
+3. Go to frontend folder and run the command npm run dev
+4. Go to admin folder and run the command npm run dev
